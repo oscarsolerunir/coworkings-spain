@@ -5,7 +5,7 @@
       "nombre": "Coworking Madrid Central",
       "descripcion": "Un espacio moderno en el corazón de Madrid, ideal para freelancers y startups.",
       "precio": "150 EUR/mes",
-      "imagen": "https://example.com/images/madrid_central.jpg",
+      "imagen": "https://oscarsoler.com/coworking-img/image-1.jpg",
       "localizacion": {
         "direccion": "Calle Gran Vía, 45, 28013 Madrid, España",
         "ciudad": "Madrid",
@@ -23,7 +23,7 @@
       "nombre": "Barcelona Innovation Hub",
       "descripcion": "Espacio vibrante y creativo en el centro de Barcelona, perfecto para la colaboración y la innovación.",
       "precio": "200 EUR/mes",
-      "imagen": "https://example.com/images/barcelona_hub.jpg",
+      "imagen": "https://oscarsoler.com/coworking-img/image-2.jpg",
       "localizacion": {
         "direccion": "Avinguda Diagonal, 211, 08018 Barcelona, España",
         "ciudad": "Barcelona",
@@ -41,7 +41,7 @@
       "nombre": "Valencia Work Space",
       "descripcion": "Un lugar acogedor y profesional en Valencia, ideal para trabajar en un ambiente tranquilo.",
       "precio": "120 EUR/mes",
-      "imagen": "https://example.com/images/valencia_workspace.jpg",
+      "imagen": "https://oscarsoler.com/coworking-img/image-3.jpg",
       "localizacion": {
         "direccion": "Carrer de Colón, 50, 46004 Valencia, España",
         "ciudad": "Valencia",
@@ -58,7 +58,7 @@
       "nombre": "Sevilla Co-Lab",
       "descripcion": "Espacio colaborativo en Sevilla con un ambiente relajado y profesional.",
       "precio": "130 EUR/mes",
-      "imagen": "https://example.com/images/sevilla_colab.jpg",
+      "imagen": "https://oscarsoler.com/coworking-img/image-4.jpg",
       "localizacion": {
         "direccion": "Avenida de la Constitución, 20, 41004 Sevilla, España",
         "ciudad": "Sevilla",
@@ -75,7 +75,7 @@
       "nombre": "Bilbao Cowork",
       "descripcion": "Un espacio innovador en Bilbao, ideal para emprendedores y profesionales creativos.",
       "precio": "140 EUR/mes",
-      "imagen": "https://example.com/images/bilbao_cowork.jpg",
+      "imagen": "https://oscarsoler.com/coworking-img/image-5.jpg",
       "localizacion": {
         "direccion": "Plaza Moyúa, 1, 48009 Bilbao, España",
         "ciudad": "Bilbao",
