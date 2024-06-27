@@ -91,7 +91,7 @@
         "sabado": "09:00 - 13:00",
         "domingo": "Cerrado"
       },
-      "destacado": false
+      "destacado": true
     },
     {
       "id": 6,
@@ -147,7 +147,7 @@
         "sabado": "10:00 - 14:00",
         "domingo": "Cerrado"
       },
-      "destacado": false
+      "destacado": true
     },
     {
       "id": 9,
